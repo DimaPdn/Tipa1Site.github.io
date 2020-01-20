@@ -1,0 +1,42 @@
+body {
+ padding: 0;
+ margin: 0;
+ }
+#test {
+    background-color: #fff;
+    color: #333;
+    padding: 50px;
+    margin: 5px;
+    border: 10px solid #C3A300;
+    border-radius: 100px;
+    opacity: 0.9;
+    box-shadow: 5px 5px 10px #C3A300;
+    height: 10px;
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+}
+#test:hover {
+    border: #C3A300 10px dashed;
+}
+.background-image {
+    background-image: url(images/1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: auto;
+}
+.fon {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: auto;
+}
+.div-class {
+    background-image: url(images/2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: auto;
+}
